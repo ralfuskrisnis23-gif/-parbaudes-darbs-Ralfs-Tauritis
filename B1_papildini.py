@@ -22,3 +22,4 @@ with open("servisi.csv", "w", newline="", encoding="utf-8-sig") as g:
         rakstitajs.writerow([serviss, servisi[serviss]])
 
 print("Dati ierakstīti")
+ 
