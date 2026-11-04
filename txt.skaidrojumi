@@ -1,11 +1,11 @@
-1. Pieeja pirms koda
+ Pieeja pirms koda
  
-1 1Atveru failu un paskatos, kâ izskatâs viena rinda.
-2 2Ar ciklu atlasu tikai rindas, kurâs ir ERROR.
-3.3 No katras rindas paòemu stundu un saskaitu, cik reiþu katra stunda atkârtojas.
- 4Atrodu stundu ar lielâko skaitli un to izvadu.
+1 1Atveru failu un paskatos, kā izskatās viena rinda.
+2 Ar ciklu atlasu tikai rindas, kurās ir ERROR.
+3. No katras rindas paņemu stundu un saskaitu, cik reižu katra stunda atkārtojas.
+ 4Atrodu stundu ar lielāko skaitli un to izvadu.
  
  
 2. Objekti, nevis teksts
  
- Objektiem atmiòa ir skaitlis, tâpçc to var tieði salîdzinât ar 200 MB. Bashâ man vajadzçtu griezt tekstu. Tâ ir vieglâk un mazâk kïûdu.
+Objektiem atmiņa ir skaitlis, tāpēc to var tieši salīdzināt ar 200 MB. Bashā man vajadzētu griezt tekstu. Tā ir vieglāk un mazāk kļūdu.
